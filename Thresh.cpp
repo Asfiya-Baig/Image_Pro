@@ -18,7 +18,7 @@ RotatedRect temp;
 
 int main()
 {
-VideoCapture capture("Asfiya4_Baig_20_female_left.avi");	//Opens the camera of the device connected
+VideoCapture capture("Name_fo_the_video.avi");	//Opens the camera of the device connected
 capture>>image_RGB;
 while(1)
 {
